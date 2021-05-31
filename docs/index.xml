@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taller Integrado MID 2021 on Silvana E.C - Taller</title>
+    <link>https://silvanna-2o7.github.io/docs/</link>
+    <description>Recent content in Taller Integrado MID 2021 on Silvana E.C - Taller</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://silvanna-2o7.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recuerdos</title>
+      <link>https://silvanna-2o7.github.io/docs/post-1/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://silvanna-2o7.github.io/docs/post-1/</guid>
+      <description>Contenido que he pasado en la universidad en los años anteriores.</description>
+    </item>
+    
+    <item>
+      <title>Luz y Sombra</title>
+      <link>https://silvanna-2o7.github.io/docs/post-2/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://silvanna-2o7.github.io/docs/post-2/</guid>
+      <description>juego de sombras y luces con papeles</description>
+    </item>
+    
+    <item>
+      <title>Animaciones de luz</title>
+      <link>https://silvanna-2o7.github.io/docs/post-3/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://silvanna-2o7.github.io/docs/post-3/</guid>
+      <description>juego de sombras y luces con papeles</description>
+    </item>
+    
+    <item>
+      <title>Final de la luz</title>
+      <link>https://silvanna-2o7.github.io/docs/post-4/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://silvanna-2o7.github.io/docs/post-4/</guid>
+      <description>Vista total de la unidad</description>
+    </item>
+    
+    <item>
+      <title>Tutoriales Fusion</title>
+      <link>https://silvanna-2o7.github.io/docs/post-5/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://silvanna-2o7.github.io/docs/post-5/</guid>
+      <description>La mayoria de los tutoriales que se han visto desde el programa fusion</description>
+    </item>
+    
+    <item>
+      <title>Propuestas para Examen</title>
+      <link>https://silvanna-2o7.github.io/docs/post-6/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://silvanna-2o7.github.io/docs/post-6/</guid>
+      <description>Primer intento para examen</description>
+    </item>
+    
+    <item>
+      <title>Levantamiento de información</title>
+      <link>https://silvanna-2o7.github.io/docs/post-8/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://silvanna-2o7.github.io/docs/post-8/</guid>
+      <description>Investigación de antecedentes y referentes</description>
+    </item>
+    
+    <item>
+      <title>Proyecto BEMO</title>
+      <link>https://silvanna-2o7.github.io/docs/post-7/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://silvanna-2o7.github.io/docs/post-7/</guid>
+      <description>Bomberos Electro-Moviles</description>
+    </item>
+    
+    <item>
+      <title>Examen</title>
+      <link>https://silvanna-2o7.github.io/docs/examen/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://silvanna-2o7.github.io/docs/examen/</guid>
+      <description>Examen de Taller Integrado 26 de Mayo 2021</description>
+    </item>
+    
+    <item>
+      <title>Clip Studio</title>
+      <link>https://silvanna-2o7.github.io/docs/animaci%C3%B3n/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://silvanna-2o7.github.io/docs/animaci%C3%B3n/</guid>
+      <description>Tutorial de como hacer una animación en la aplicación de Clip Studio.</description>
+    </item>
+    
+    <item>
+      <title>Ejemplos de Shortcodes</title>
+      <link>https://silvanna-2o7.github.io/docs/ejemplo/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://silvanna-2o7.github.io/docs/ejemplo/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
+      <title>Ejemplos Markdown</title>
+      <link>https://silvanna-2o7.github.io/docs/markdown/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://silvanna-2o7.github.io/docs/markdown/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+  </channel>
+</rss>
